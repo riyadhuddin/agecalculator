@@ -1,4 +1,4 @@
-# age calculator
+# Age Calculator
  Neumorphic UI for age calculation
 <table>
 <tr>
