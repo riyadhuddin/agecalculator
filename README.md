@@ -1,4 +1,5 @@
 # Age Calculator
+[![BCH compliance](https://bettercodehub.com/edge/badge/riyadhuddin/agecalculator?branch=master)](https://bettercodehub.com/)<br>
  Neumorphic UI for age calculation
 <table>
 <tr>
